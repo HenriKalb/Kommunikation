@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 3b33223a267b3e840982e48f48ec96af
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube.012_Cube.003_blackspecular
+    100002: Cube.012_Cube.003_OutsideHMD
+    100004: Cube.012_Cube.003_OutsideHMD_NONE
+    100006: Cube.012_Cube.003_ShinierPlastic
+    100008: Cube.015_Cube.008_ShinierPlastic.001
+    100010: Cube.016_Cube.012_darkmetal.001_plasticnologo.jpg
+    100012: Cube.018_Cube.019_blackfoam
+    100014: Cube.019_Cube.020_clothband
+    100016: Cube.020_Cube.021_bandrubber
+    100018: Cube.021_Cube.022_clothband
+    100020: Cube.025_Cube.026_tag
+    100022: Cube.026_Cube.027_OutsideHMD
+    100024: Cube.029_Cube.030_bandrubber
+    100026: Cylinder.001_Cylinder.002_darkmetal.001
+    100028: Cylinder.003_Cylinder.001_darkmetal.001
+    100030: Cylinder.006_Cylinder.006_blackfoam
+    100032: Cylinder.006_Cylinder.006_darkmetal.001_plasticnologo.jpg
+    100034: Cylinder.006_Cylinder.006_Headphonemesh
+    100036: //RootNode
+    400000: Cube.012_Cube.003_blackspecular
+    400002: Cube.012_Cube.003_OutsideHMD
+    400004: Cube.012_Cube.003_OutsideHMD_NONE
+    400006: Cube.012_Cube.003_ShinierPlastic
+    400008: Cube.015_Cube.008_ShinierPlastic.001
+    400010: Cube.016_Cube.012_darkmetal.001_plasticnologo.jpg
+    400012: Cube.018_Cube.019_blackfoam
+    400014: Cube.019_Cube.020_clothband
+    400016: Cube.020_Cube.021_bandrubber
+    400018: Cube.021_Cube.022_clothband
+    400020: Cube.025_Cube.026_tag
+    400022: Cube.026_Cube.027_OutsideHMD
+    400024: Cube.029_Cube.030_bandrubber
+    400026: Cylinder.001_Cylinder.002_darkmetal.001
+    400028: Cylinder.003_Cylinder.001_darkmetal.001
+    400030: Cylinder.006_Cylinder.006_blackfoam
+    400032: Cylinder.006_Cylinder.006_darkmetal.001_plasticnologo.jpg
+    400034: Cylinder.006_Cylinder.006_Headphonemesh
+    400036: //RootNode
+    2300000: Cube.012_Cube.003_blackspecular
+    2300002: Cube.012_Cube.003_OutsideHMD
+    2300004: Cube.012_Cube.003_OutsideHMD_NONE
+    2300006: Cube.012_Cube.003_ShinierPlastic
+    2300008: Cube.015_Cube.008_ShinierPlastic.001
+    2300010: Cube.016_Cube.012_darkmetal.001_plasticnologo.jpg
+    2300012: Cube.018_Cube.019_blackfoam
+    2300014: Cube.019_Cube.020_clothband
+    2300016: Cube.020_Cube.021_bandrubber
+    2300018: Cube.021_Cube.022_clothband
+    2300020: Cube.025_Cube.026_tag
+    2300022: Cube.026_Cube.027_OutsideHMD
+    2300024: Cube.029_Cube.030_bandrubber
+    2300026: Cylinder.001_Cylinder.002_darkmetal.001
+    2300028: Cylinder.003_Cylinder.001_darkmetal.001
+    2300030: Cylinder.006_Cylinder.006_blackfoam
+    2300032: Cylinder.006_Cylinder.006_darkmetal.001_plasticnologo.jpg
+    2300034: Cylinder.006_Cylinder.006_Headphonemesh
+    3300000: Cube.012_Cube.003_blackspecular
+    3300002: Cube.012_Cube.003_OutsideHMD
+    3300004: Cube.012_Cube.003_OutsideHMD_NONE
+    3300006: Cube.012_Cube.003_ShinierPlastic
+    3300008: Cube.015_Cube.008_ShinierPlastic.001
+    3300010: Cube.016_Cube.012_darkmetal.001_plasticnologo.jpg
+    3300012: Cube.018_Cube.019_blackfoam
+    3300014: Cube.019_Cube.020_clothband
+    3300016: Cube.020_Cube.021_bandrubber
+    3300018: Cube.021_Cube.022_clothband
+    3300020: Cube.025_Cube.026_tag
+    3300022: Cube.026_Cube.027_OutsideHMD
+    3300024: Cube.029_Cube.030_bandrubber
+    3300026: Cylinder.001_Cylinder.002_darkmetal.001
+    3300028: Cylinder.003_Cylinder.001_darkmetal.001
+    3300030: Cylinder.006_Cylinder.006_blackfoam
+    3300032: Cylinder.006_Cylinder.006_darkmetal.001_plasticnologo.jpg
+    3300034: Cylinder.006_Cylinder.006_Headphonemesh
+    4300000: Cube.012_Cube.003_blackspecular
+    4300002: Cube.012_Cube.003_OutsideHMD
+    4300004: Cube.012_Cube.003_OutsideHMD_NONE
+    4300006: Cube.012_Cube.003_ShinierPlastic
+    4300008: Cube.015_Cube.008_ShinierPlastic.001
+    4300010: Cube.016_Cube.012_darkmetal.001_plasticnologo.jpg
+    4300012: Cube.018_Cube.019_blackfoam
+    4300014: Cube.019_Cube.020_clothband
+    4300016: Cube.020_Cube.021_bandrubber
+    4300018: Cube.021_Cube.022_clothband
+    4300020: Cube.025_Cube.026_tag
+    4300022: Cube.026_Cube.027_OutsideHMD
+    4300024: Cube.029_Cube.030_bandrubber
+    4300026: Cylinder.001_Cylinder.002_darkmetal.001
+    4300028: Cylinder.003_Cylinder.001_darkmetal.001
+    4300030: Cylinder.006_Cylinder.006_blackfoam
+    4300032: Cylinder.006_Cylinder.006_darkmetal.001_plasticnologo.jpg
+    4300034: Cylinder.006_Cylinder.006_Headphonemesh
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Headphonemesh
+    second: {fileID: 2100000, guid: 6c23799090cd3d04bb3e9b6d8d2acf12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OutsideHMD
+    second: {fileID: 2100000, guid: 9f1221f6cee73e24baa2e9ab22bc32f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OutsideHMD_NONE
+    second: {fileID: 2100000, guid: 4dfee8d89e3fe1b44a50f02b4f61177a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShinierPlastic
+    second: {fileID: 2100000, guid: d9544d3e6bba5114db081a0936eb565b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShinierPlastic.001
+    second: {fileID: 2100000, guid: 49ceb1202681c9145ad4d7858a4249ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bandrubber
+    second: {fileID: 2100000, guid: ed2f1081e98548d4c8ce5d4441566cbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blackfoam
+    second: {fileID: 2100000, guid: 85c07d0a1ac3f3941849e606370f8f63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blackspecular
+    second: {fileID: 2100000, guid: a2386f0cdeb7e2147ad6720ea9e33666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clothband
+    second: {fileID: 2100000, guid: 61ac5a57fb90fbb46977cca246129582, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: darkmetal.001
+    second: {fileID: 2100000, guid: 752c1208285f1ef4f8db201f36a2ccb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: darkmetal.001_plasticnologo.jpg
+    second: {fileID: 2100000, guid: d63719af79a47284d85e6ce5d8fcbbf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tag
+    second: {fileID: 2100000, guid: 4dace3b03009b5e4280231c4ba2314e0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
